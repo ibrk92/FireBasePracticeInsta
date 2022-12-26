@@ -1,2 +1,2 @@
 # FireBasePracticeInsta
-Using of Firebase (Firebase Firestore, Storage, Auth), Sign in, Sign Up, RecyclerView 
+Using of Firebase (Firebase Firestore, Storage, Auth), Sign In, Sign Up, RecyclerView 
