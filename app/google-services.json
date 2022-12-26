@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "103608525453",
+    "project_id": "fir-practiceinsta",
+    "storage_bucket": "fir-practiceinsta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103608525453:android:3b173d7394a3d078ae78c4",
+        "android_client_info": {
+          "package_name": "com.ibrahimkiceci.firebasepracticeinsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103608525453-8g6j34u6elk3qdp86kfjs53f73lo1kvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF3E9fVnObxAoLGxrJcNu5cHjZX-l7urs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103608525453-8g6j34u6elk3qdp86kfjs53f73lo1kvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
